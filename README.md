@@ -1,6 +1,9 @@
 # complx-macOS-10.12
 A build script for Complx by Brandon Whitehead for macOS Sierra 10.12 (ONLY as it uses 10.12 SDK tools)
 
+## Prerequisites
+- XCode must be installed on your Mac
+
 ## Instructions
 1. Plug in your machine (your fan will RUN).
 2. Clone the repo.
